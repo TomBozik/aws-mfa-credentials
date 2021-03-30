@@ -1,0 +1,5 @@
+[aws]
+key = XXXXXXXXXXXXXXXXXXX
+secret = XXXXXXXXXXXXXXXXXXX
+region = us-east-1
+serial = arn:aws:iam::1234567890:mfa/XXXXX
